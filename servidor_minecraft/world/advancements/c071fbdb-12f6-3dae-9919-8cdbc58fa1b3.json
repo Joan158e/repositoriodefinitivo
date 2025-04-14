@@ -7348,12 +7348,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-04-14 14:11:29 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-04-14 13:58:03 +0000"
@@ -7363,6 +7357,12 @@
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-04-14 13:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-14 14:11:29 +0000"
     },
     "done": true
   },

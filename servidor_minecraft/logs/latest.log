@@ -688,3 +688,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 23:18:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [14Apr2025 23:18:17.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [14Apr2025 23:26:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:30:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:30:12.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 23:30:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:30:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:33:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 23:36:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 23:37:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[14Apr2025 23:41:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:42:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:43:41.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:44:01.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 23:44:32.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:46037] logged in with entity id 83946 at (-665.7326051633906, 89.0, 444.0239759854704)
+[14Apr2025 23:44:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[14Apr2025 23:44:32.385] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[14Apr2025 23:45:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:45:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[14Apr2025 23:45:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
