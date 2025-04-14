@@ -705,3 +705,33 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 23:45:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [14Apr2025 23:45:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
 [14Apr2025 23:45:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 23:49:58.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:57409] logged in with entity id 85756 at (240.90068065103856, 86.0, 22.899413867010736)
+[14Apr2025 23:49:58.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 23:49:58.832] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 23:52:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> donde estais?
+[14Apr2025 23:52:18.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> en una cueva
+[14Apr2025 23:52:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> no t metes discord?
+[14Apr2025 23:52:36.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> ahora en un ratito
+[14Apr2025 23:53:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[14Apr2025 23:53:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[14Apr2025 23:54:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[14Apr2025 23:54:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[14Apr2025 23:54:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[14Apr2025 23:56:18.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported paco to AlexaurusRex16]
+[14Apr2025 23:56:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:56:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> corre ven
+[14Apr2025 23:56:49.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:56:49.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:56:50.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:56:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:57:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:57:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 23:57:31.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 23:57:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 23:57:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:57:37.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:57:37.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[14Apr2025 23:57:41.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:41847] logged in with entity id 88945 at (135.5, 72.5625, 5.5)
+[14Apr2025 23:57:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 23:57:41.302] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 23:58:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
