@@ -415,3 +415,25 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 20:27:25.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
 [14Apr2025 20:27:25.488] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
 [14Apr2025 20:29:23.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 20:44:26.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [The Parrots and the Bats]
+[14Apr2025 20:46:17.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 20:47:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 20:50:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 20:52:30.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:39199] logged in with entity id 5704 at (162.37001773652133, 107.0, -12.696574531515093)
+[14Apr2025 20:52:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 20:52:30.116] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 20:56:58.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[14Apr2025 20:56:58.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[14Apr2025 20:56:58.087] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Apr2025 20:57:32.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:48537] logged in with entity id 6845 at (117.30000001192093, 76.0, 31.563244423234746)
+[14Apr2025 20:57:32.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[14Apr2025 20:57:33.011] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[14Apr2025 20:59:54.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noé (vehicle of Johan) moved wrongly! 0.4423400627714245
+[14Apr2025 20:59:57.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noé (vehicle of Johan) moved wrongly! 0.8271796175179064
+[14Apr2025 20:59:57.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noé (vehicle of Johan) moved wrongly! 0.828591141122977
+[14Apr2025 21:00:40.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 21:00:40.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 21:01:20.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:37161] logged in with entity id 8257 at (161.727769432908, 117.0, -10.729996366489006)
+[14Apr2025 21:01:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 21:01:20.172] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 21:05:12.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=63, z=505} BlockPos{x=294, y=63, z=505}
