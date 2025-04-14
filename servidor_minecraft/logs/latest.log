@@ -592,3 +592,51 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 21:49:58.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.6501899702592808
 [14Apr2025 21:51:38.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.830396152798091
 [14Apr2025 21:52:29.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8265164417205838
+[14Apr2025 21:57:23.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 21:57:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 21:57:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 22:01:46.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 22:05:00.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to -385.500000, 173.500000, -2241.500000]
+[14Apr2025 22:05:57.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> arnau, hazte tp si puedes
+[14Apr2025 22:06:13.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> vamos a meternos de ostias con unos pillagers
+[14Apr2025 22:06:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 22:08:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [The Cutest Predator]
+[14Apr2025 22:08:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [The Cutest Predator]
+[14Apr2025 22:10:36.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[14Apr2025 22:10:36.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:10:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:10:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:10:39.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 22:10:39.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 22:11:31.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a0ec7f8[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:54707) lost connection: Disconnected
+[14Apr2025 22:11:34.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:41843] logged in with entity id 61289 at (147.52103398294125, 117.5, -16.63869606650969)
+[14Apr2025 22:11:34.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 22:11:34.841] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 22:13:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 22:16:13.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Leili'/63018, l='ServerLevel[world]', x=-587.73, y=74.00, z=-1953.51] died, message: 'Leili was frozen by Ice Dragon'
+[14Apr2025 22:16:27.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arne'/63038, l='ServerLevel[world]', x=-600.33, y=74.07, z=-1941.61] died, message: 'Arne was slain by Ice Dragon'
+[14Apr2025 22:16:33.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alto'/63209, l='ServerLevel[world]', x=-602.96, y=76.31, z=-1946.92] died, message: 'Alto was slain by Ice Dragon'
+[14Apr2025 22:16:38.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lilia'/63037, l='ServerLevel[world]', x=-602.03, y=74.92, z=-1942.03] died, message: 'Lilia was turned to ice by Ice Dragon'
+[14Apr2025 22:16:57.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 22:21:53.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[14Apr2025 22:21:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[14Apr2025 22:21:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:21:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:22:01.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:22:01.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 22:22:01.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 22:22:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[14Apr2025 22:22:24.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:38519] logged in with entity id 64500 at (150.07401268793086, 93.0, 0.9820148664176857)
+[14Apr2025 22:22:24.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 22:22:24.298] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 22:23:09.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:39383] logged in with entity id 64604 at (133.31454452699137, 97.0, -1.2008190733876332)
+[14Apr2025 22:23:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[14Apr2025 22:23:09.207] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[14Apr2025 22:25:05.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> chavules
+[14Apr2025 22:25:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> me voyy
+[14Apr2025 22:25:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> deww
+[14Apr2025 22:25:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> nos vemos mañana si eso
+[14Apr2025 22:25:19.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anau> NIGGA
+[14Apr2025 22:25:22.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 22:25:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 22:25:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> que vaya bien, buenas noches
