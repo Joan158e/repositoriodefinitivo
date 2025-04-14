@@ -5992,6 +5992,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-14 22:43:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-14 22:34:19 +0000"
@@ -6082,6 +6088,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-14 22:51:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-14 22:34:19 +0000"
@@ -6097,6 +6109,18 @@
   "mca:recipes/decorations/green_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-14 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-14 22:43:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-14 22:43:40 +0000"
     },
     "done": true
   },
