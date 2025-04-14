@@ -485,3 +485,110 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 21:33:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
 [14Apr2025 21:33:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Spectator Mode]
 [14Apr2025 21:34:56.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
+[14Apr2025 21:36:04.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 21:36:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 21:36:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 21:36:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 21:36:15.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[14Apr2025 21:36:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[14Apr2025 21:36:47.684] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59ee74a7[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:54331) lost connection: Disconnected
+[14Apr2025 21:36:51.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:51811] logged in with entity id 36487 at (157.323066774041, 125.0, -7.005313491935466)
+[14Apr2025 21:36:51.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[14Apr2025 21:36:51.099] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[14Apr2025 21:39:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Best Friends Forever]
+[14Apr2025 21:39:35.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Free Willy]
+[14Apr2025 21:39:51.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4058039060425251
+[14Apr2025 21:39:54.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7845145017380479
+[14Apr2025 21:39:57.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.6730631271212166
+[14Apr2025 21:40:02.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.39934870738370765
+[14Apr2025 21:40:26.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.5829479418775998
+[14Apr2025 21:40:38.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8217036171794893
+[14Apr2025 21:40:38.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.821463849241602
+[14Apr2025 21:40:38.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.821463849241602
+[14Apr2025 21:40:39.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.829419513433117
+[14Apr2025 21:40:39.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.829419513433117
+[14Apr2025 21:40:39.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8297274196046418
+[14Apr2025 21:41:12.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7684755479946679
+[14Apr2025 21:41:12.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7684755479946679
+[14Apr2025 21:41:12.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.5578993620291348
+[14Apr2025 21:41:12.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.5578993620291348
+[14Apr2025 21:41:12.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.5578993620291348
+[14Apr2025 21:41:12.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.5578993620291348
+[14Apr2025 21:42:48.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4541974764806582
+[14Apr2025 21:42:48.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.3159835827019606
+[14Apr2025 21:42:48.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.6479589046771252
+[14Apr2025 21:42:48.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3972400410564205
+[14Apr2025 21:42:48.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8711086492121467
+[14Apr2025 21:42:48.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.39874348983039454
+[14Apr2025 21:42:48.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3993649398219077
+[14Apr2025 21:42:48.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3999130587144464
+[14Apr2025 21:42:49.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4003964995777096
+[14Apr2025 21:42:49.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.40082289441897956
+[14Apr2025 21:42:49.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.40119897466911425
+[14Apr2025 21:42:49.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4015306774495002
+[14Apr2025 21:42:49.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4018232393020753
+[14Apr2025 21:42:49.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3976038806640645
+[14Apr2025 21:42:49.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.37136217050988307
+[14Apr2025 21:42:49.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3317172639938235
+[14Apr2025 21:42:49.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.2832039188863291
+[14Apr2025 21:42:56.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8305045191363464
+[14Apr2025 21:42:56.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7360352181247387
+[14Apr2025 21:43:05.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8276224115858825
+[14Apr2025 21:43:06.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8249149038386902
+[14Apr2025 21:43:06.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.825856530837563
+[14Apr2025 21:43:06.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8269347623971574
+[14Apr2025 21:44:28.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.6650670083412401
+[14Apr2025 21:44:59.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 21:45:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to Anau]
+[14Apr2025 21:45:55.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[14Apr2025 21:45:55.783] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_14.04.2025-21.45.55.dat
+[14Apr2025 21:45:55.784] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 160 Y: 76.0 Z: 13
+[14Apr2025 21:46:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 21:47:29.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Surfer Rosa]
+[14Apr2025 21:47:37.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to Anau]
+[14Apr2025 21:47:58.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8197594466392011
+[14Apr2025 21:47:58.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8259245586014494
+[14Apr2025 21:48:01.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8257398467813638
+[14Apr2025 21:48:01.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8260268221973672
+[14Apr2025 21:48:23.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.2979822663921823
+[14Apr2025 21:48:37.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4378857572006041
+[14Apr2025 21:48:37.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.1764085324068674
+[14Apr2025 21:48:37.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.46095890689332464
+[14Apr2025 21:48:37.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4704961847368736
+[14Apr2025 21:48:37.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4789080637948473
+[14Apr2025 21:48:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.253612513417238
+[14Apr2025 21:48:38.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4928711437283937
+[14Apr2025 21:48:38.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4986427776253777
+[14Apr2025 21:48:38.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.2907532448463144
+[14Apr2025 21:48:38.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.5081425659895444
+[14Apr2025 21:48:38.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.3058423199892673
+[14Apr2025 21:48:38.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.4151940745293814
+[14Apr2025 21:48:38.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3321726749321101
+[14Apr2025 21:48:38.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.9129282363140874
+[14Apr2025 21:48:38.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.25703253098237155
+[14Apr2025 21:48:38.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7698131613561827
+[14Apr2025 21:49:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.31192569991981145
+[14Apr2025 21:49:05.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.9447488251904588
+[14Apr2025 21:49:05.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3319276955833175
+[14Apr2025 21:49:05.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.34211255943068863
+[14Apr2025 21:49:06.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3510956093441564
+[14Apr2025 21:49:06.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.35901865936784816
+[14Apr2025 21:49:06.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.36600678948866516
+[14Apr2025 21:49:06.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3730122379182603
+[14Apr2025 21:49:06.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.0655048388035766
+[14Apr2025 21:49:06.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.38942023900881395
+[14Apr2025 21:49:06.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.39693909114612325
+[14Apr2025 21:49:06.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3975482033465596
+[14Apr2025 21:49:06.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.3708347046840572
+[14Apr2025 21:49:06.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 1.0044689178795352
+[14Apr2025 21:49:06.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.2721269449901911
+[14Apr2025 21:49:23.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8300822063611495
+[14Apr2025 21:49:24.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7679056176388593
+[14Apr2025 21:49:25.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.47061134198126364
+[14Apr2025 21:49:26.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8183766067871598
+[14Apr2025 21:49:27.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.7336649750686979
+[14Apr2025 21:49:30.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8300581482148185
+[14Apr2025 21:49:31.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8302662764410389
+[14Apr2025 21:49:58.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.6501899702592808
+[14Apr2025 21:51:38.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.830396152798091
+[14Apr2025 21:52:29.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of AlexaurusRex16) moved wrongly! 0.8265164417205838

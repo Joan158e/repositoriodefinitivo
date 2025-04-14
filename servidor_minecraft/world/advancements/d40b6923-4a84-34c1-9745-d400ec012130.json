@@ -5776,6 +5776,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-04-14 21:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2025-04-14 21:17:47 +0000"
