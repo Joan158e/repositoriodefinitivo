@@ -684,3 +684,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 23:06:59.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [14Apr2025 23:09:18.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [14Apr2025 23:11:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[14Apr2025 23:18:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 23:18:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 23:18:17.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 23:26:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
