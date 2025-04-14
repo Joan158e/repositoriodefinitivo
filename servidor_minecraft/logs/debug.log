@@ -6948,3 +6948,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [14Apr2025 22:32:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [14Apr2025 22:33:30.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Apr2025 22:33:30.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 22:38:30.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 22:38:30.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 22:40:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 802.500000, 65.500000, 1320.500000]
+[14Apr2025 22:41:47.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 22:43:23.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=66, z=101} BlockPos{x=26, y=65, z=102}
+[14Apr2025 22:43:30.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 22:43:31.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 22:44:31.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:44:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:44:31.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:44:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[14Apr2025 22:44:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:44:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[14Apr2025 22:44:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[14Apr2025 22:44:33.095] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_14.04.2025-22.44.33.dat
+[14Apr2025 22:44:33.095] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 821 Y: 37.0 Z: -227
+[14Apr2025 22:44:48.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[14Apr2025 22:45:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 822.500000, 36.500000, -226.500000]
+[14Apr2025 22:45:23.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was shot by Skeleton
+[14Apr2025 22:45:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 824.500000, 35.500000, -224.500000]
+[14Apr2025 22:45:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was shot by Skeleton
+[14Apr2025 22:45:57.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 829.500000, 35.500000, -223.500000]
+[14Apr2025 22:46:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Zombie
+[14Apr2025 22:46:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 829.500000, 35.500000, -223.500000]
