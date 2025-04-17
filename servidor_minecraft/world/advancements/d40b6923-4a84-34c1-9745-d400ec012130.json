@@ -3674,6 +3674,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-04-09 22:54:17 +0000",
+      "sugar_cane": "2025-04-17 22:54:11 +0000",
       "potato": "2025-04-10 00:12:34 +0000",
       "wheat": "2025-04-10 20:23:26 +0000",
       "carrot": "2025-04-13 16:47:33 +0000"
@@ -6223,6 +6224,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-15 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 22:51:34 +0000"
     },
     "done": true
   },

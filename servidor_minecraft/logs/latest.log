@@ -420,3 +420,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Apr2025 22:31:25.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:53287] logged in with entity id 304 at (133.23777988003212, 97.0, -3.870302860497803)
 [17Apr2025 22:31:25.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
 [17Apr2025 22:31:25.202] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[17Apr2025 22:51:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Take Aim]
