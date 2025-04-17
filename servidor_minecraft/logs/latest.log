@@ -431,3 +431,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Apr2025 23:05:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [17Apr2025 23:07:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [17Apr2025 23:07:50.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 moved wrongly!
+[17Apr2025 23:10:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[17Apr2025 23:11:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[17Apr2025 23:18:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
