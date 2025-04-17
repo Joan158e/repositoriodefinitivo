@@ -7582,5 +7582,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 23:41:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -460,3 +460,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Apr2025 23:33:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> z
 [17Apr2025 23:37:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
 [17Apr2025 23:37:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[17Apr2025 23:48:23.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[17Apr2025 23:48:26.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[17Apr2025 23:49:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> no tengo autoestime
+[17Apr2025 23:49:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
