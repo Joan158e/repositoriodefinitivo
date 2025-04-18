@@ -5843,3 +5843,43 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 00:49:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
 [18Apr2025 00:49:51.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 00:49:51.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:51:45.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 00:51:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:46.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:51:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 00:51:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:52:16.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 00:52:46.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[18Apr2025 00:52:46.740] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_18.04.2025-00.52.46.dat
+[18Apr2025 00:52:46.740] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 133 Y: 76.0 Z: -9
+[18Apr2025 00:53:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 00:53:29.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[18Apr2025 00:53:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 00:53:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[18Apr2025 00:54:36.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[18Apr2025 00:54:51.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:54:51.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:54:59.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 00:55:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[18Apr2025 00:57:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 00:57:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[18Apr2025 00:59:51.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:59:51.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:00:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:02:30.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[18Apr2025 01:02:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[18Apr2025 01:04:03.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 01:04:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 01:04:51.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:04:51.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:05:42.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:07:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzzzzzzzzzzzz
+[18Apr2025 01:07:53.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:07:53.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:07:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:09:51.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:09:51.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
