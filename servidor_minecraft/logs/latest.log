@@ -470,3 +470,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 20:53:56.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:45695] logged in with entity id 9174 at (284.2018639470494, 94.0, 10.588357305188683)
 [18Apr2025 20:53:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
 [18Apr2025 20:53:56.108] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[18Apr2025 21:02:31.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:47017] logged in with entity id 11591 at (131.45908963586277, 88.0, 23.69999998807907)
+[18Apr2025 21:02:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[18Apr2025 21:02:31.915] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[18Apr2025 21:06:04.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Teleported Anau to paco]
+[18Apr2025 21:06:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 21:06:59.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 21:08:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -8.500000, 95.500000, 90.500000]
+[18Apr2025 21:10:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
