@@ -445,3 +445,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 20:29:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [18Apr2025 20:29:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [18Apr2025 20:29:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 20:35:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to Johan]
+[18Apr2025 20:36:04.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[18Apr2025 20:36:04.025] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_18.04.2025-20.36.04.dat
+[18Apr2025 20:36:04.025] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 126 Y: 76.0 Z: -1
+[18Apr2025 20:39:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 20:41:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[18Apr2025 20:41:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 20:41:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:41:32.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[18Apr2025 20:41:32.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[18Apr2025 20:41:55.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bbdf5c5[id=<null>,name=Anau,properties={},legacy=false] (/127.206.124.17:54699) lost connection: Disconnected
+[18Apr2025 20:41:58.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:58443] logged in with entity id 6329 at (145.5124364014408, 50.0, 76.02916451524239)
+[18Apr2025 20:41:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[18Apr2025 20:41:58.910] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
