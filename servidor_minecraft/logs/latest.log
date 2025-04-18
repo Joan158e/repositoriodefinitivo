@@ -437,3 +437,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 20:18:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Spectator Mode]
 [18Apr2025 20:19:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
 [18Apr2025 20:20:54.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Clash of the Titans]
+[18Apr2025 20:23:44.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:51951] logged in with entity id 1831 at (132.30000001192093, 77.875, 11.480342969321654)
+[18Apr2025 20:23:44.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[18Apr2025 20:23:44.593] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[18Apr2025 20:29:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:29:41.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:29:41.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:29:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 20:29:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
