@@ -7853,6 +7853,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-18 00:30:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-17 22:52:19 +0000"
