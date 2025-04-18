@@ -7865,6 +7865,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-18 01:25:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-18 01:25:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-18 01:25:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
@@ -7931,12 +7949,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2025-04-18 01:25:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
@@ -7958,12 +7970,6 @@
   "securitycraft:recipes/tools/remote_access_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-04-18 01:26:56 +0000"
     },
     "done": true
   },
@@ -8027,12 +8033,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2025-04-18 01:25:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
@@ -8075,18 +8075,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-04-18 01:25:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-18 01:26:56 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
@@ -8108,6 +8096,18 @@
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-04-18 01:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-18 01:26:56 +0000"
     },
     "done": true
   },
