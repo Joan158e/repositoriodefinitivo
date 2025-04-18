@@ -6264,6 +6264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2025-04-18 01:27:56 +0000"
@@ -6285,6 +6291,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-18 01:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:30:01 +0000"
     },
     "done": true
   },
@@ -6420,6 +6432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-18 01:27:56 +0000"
@@ -6444,9 +6462,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-04-18 00:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
     },
     "done": true
   },
@@ -6462,6 +6492,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-04-18 01:28:31 +0000"
@@ -6471,6 +6507,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-04-18 01:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
     },
     "done": true
   },
@@ -6525,6 +6567,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-18 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
     },
     "done": true
   },
@@ -6588,15 +6636,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/emerald_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:29:26 +0000"
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-04-18 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
     },
     "done": true
   },
@@ -6615,6 +6681,18 @@
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:30:01 +0000"
     },
     "done": true
   },
@@ -6666,6 +6744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-18 01:29:51 +0000"
@@ -6690,6 +6774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/ancient_debris_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:29:26 +0000"
@@ -6699,6 +6789,12 @@
   "securitycraft:recipes/building_blocks/end_stone_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
     },
     "done": true
   },
@@ -6798,6 +6894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-18 01:29:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-04-18 01:27:56 +0000"
@@ -6825,6 +6927,12 @@
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-04-18 01:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:30:01 +0000"
     },
     "done": true
   },
