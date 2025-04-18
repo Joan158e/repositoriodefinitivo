@@ -459,3 +459,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 20:41:58.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:58443] logged in with entity id 6329 at (145.5124364014408, 50.0, 76.02916451524239)
 [18Apr2025 20:41:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
 [18Apr2025 20:41:58.910] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[18Apr2025 20:42:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 20:44:16.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 20:52:29.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 20:52:30.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:52:30.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 20:52:30.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 20:52:49.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[18Apr2025 20:52:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[18Apr2025 20:53:56.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:45695] logged in with entity id 9174 at (284.2018639470494, 94.0, 10.588357305188683)
+[18Apr2025 20:53:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[18Apr2025 20:53:56.108] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
