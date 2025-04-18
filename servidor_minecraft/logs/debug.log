@@ -5292,3 +5292,48 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Apr2025 23:49:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
 [17Apr2025 23:49:51.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 23:49:51.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:50:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:52:07.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 156.500000, 76.500000, -6.500000]
+[17Apr2025 23:52:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:52:21.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:52:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 138.500000, 76.500000, -8.500000]
+[17Apr2025 23:52:38.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:52:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 147.500000, 76.500000, -6.500000]
+[17Apr2025 23:52:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:52:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 143.500000, 76.500000, -5.500000]
+[17Apr2025 23:52:55.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:53:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 146.500000, 76.500000, -11.500000]
+[17Apr2025 23:53:03.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:53:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 145.500000, 76.500000, -8.500000]
+[17Apr2025 23:53:16.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:53:22.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 142.500000, 76.500000, -12.500000]
+[17Apr2025 23:53:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:54:51.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:54:51.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:59:02.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[17Apr2025 23:59:51.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:59:51.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:03:09.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[18Apr2025 00:03:09.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_18.04.2025-00.03.09.dat
+[18Apr2025 00:03:09.864] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 126 Y: 76.0 Z: -10
+[18Apr2025 00:04:51.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:04:51.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:05:45.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 00:05:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> cubo
+[18Apr2025 00:07:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[18Apr2025 00:07:31.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported Johan to paco]
+[18Apr2025 00:07:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 00:07:50.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> chicken jockey
+[18Apr2025 00:07:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[18Apr2025 00:08:21.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <paco> zzzzz
+[18Apr2025 00:08:31.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:31.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:31.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:32.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:32.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 00:08:33.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 00:08:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 00:09:46.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[18Apr2025 00:09:51.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:09:51.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
