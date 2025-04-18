@@ -6986,3 +6986,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 23:12:43.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 23:12:43.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 23:14:02.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[18Apr2025 23:14:47.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Would you Like to Know More?]
+[18Apr2025 23:17:42.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:17:43.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:19:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> pobre marcel
+[18Apr2025 23:22:43.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:22:43.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:24:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [Crops of the Wild]
