@@ -216,3 +216,40 @@
 [18Apr2025 01:39:12.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
 [18Apr2025 01:39:35.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
 [18Apr2025 01:40:06.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[18Apr2025 01:41:36.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[18Apr2025 01:41:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 01:41:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[18Apr2025 01:43:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[18Apr2025 01:43:21.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:44:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:46:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 01:47:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[18Apr2025 01:47:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 01:47:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:47:49.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:47:50.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[18Apr2025 01:47:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[18Apr2025 01:47:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 131.500000, 94.500000, 21.500000]
+[18Apr2025 01:47:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 01:48:18.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[18Apr2025 01:48:18.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[18Apr2025 01:48:25.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:55953] logged in with entity id 46781 at (128.30000001192093, 94.0, 19.30277408904518)
+[18Apr2025 01:48:25.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[18Apr2025 01:48:25.308] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[18Apr2025 01:48:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 01:49:12.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 01:49:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:49:30.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 01:49:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 01:50:45.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[18Apr2025 01:51:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 01:51:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 01:53:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 01:54:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 01:54:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 01:55:06.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 01:55:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Dragonslayer]
+[18Apr2025 01:55:59.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 01:56:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 02:00:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 02:00:22.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 121.500000, 69.500000, 45.500000]

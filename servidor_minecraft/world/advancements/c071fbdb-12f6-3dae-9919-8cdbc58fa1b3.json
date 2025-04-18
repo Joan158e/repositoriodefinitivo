@@ -7606,6 +7606,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-18 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-18 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-18 01:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-18 01:29:41 +0000"
@@ -7624,12 +7654,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-04-18 01:16:54 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/gray_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-18 01:29:41 +0000"
@@ -7645,12 +7669,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-18 01:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-04-18 01:06:28 +0000"
     },
     "done": true
   },
@@ -7798,12 +7816,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-04-18 01:16:54 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-18 01:29:41 +0000"
@@ -7882,12 +7894,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-04-18 01:06:28 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/black_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-18 01:29:41 +0000"
@@ -7927,12 +7933,6 @@
   "mca:recipes/decorations/yellow_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-18 01:29:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-04-18 01:16:54 +0000"
     },
     "done": true
   },
