@@ -760,3 +760,47 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Apr2025 22:54:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to AlexaurusRex16]
 [18Apr2025 22:54:10.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> ...
 [18Apr2025 22:54:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to _crab]
+[18Apr2025 22:54:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> donde coño estais
+[18Apr2025 22:54:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 22:55:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> si la casa se incendia no vuelvo a jugar
+[18Apr2025 22:55:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Zombie
+[18Apr2025 22:55:36.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_18.04.2025-22.55.36.dat
+[18Apr2025 22:55:36.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 123 Y: 76.0 Z: 24
+[18Apr2025 22:55:42.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[18Apr2025 22:57:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab was struck by lightning
+[18Apr2025 22:57:32.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Zombie
+[18Apr2025 22:57:33.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco burned to death
+[18Apr2025 22:57:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Zombie
+[18Apr2025 22:57:34.996] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AlexaurusRex16 with unique ID travelersbackpack.wolf_18.04.2025-22.57.34.dat
+[18Apr2025 22:57:34.996] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 114 Y: 76.0 Z: 27
+[18Apr2025 22:57:36.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 118.500000, 76.500000, 19.500000]
+[18Apr2025 22:57:37.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[18Apr2025 22:57:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 113.500000, 76.500000, 28.500000]
+[18Apr2025 22:57:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has completed the challenge [Beat Death]
+[18Apr2025 22:58:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 2.500000, 68.500000, 171.500000]
+[18Apr2025 22:58:19.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[18Apr2025 22:58:38.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> de polonia
+[18Apr2025 22:58:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> polchivesky?
+[18Apr2025 22:58:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -315.500000, 125.500000, -364.500000]
+[18Apr2025 22:58:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[18Apr2025 22:58:57.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mi-Suk'/65844, l='ServerLevel[world]', x=-315.27, y=125.00, z=-365.16] died, message: 'Mi-Suk was slain by paco'
+[18Apr2025 22:58:57.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mi-Suk'/65844, l='ServerLevel[world]', x=-315.27, y=125.00, z=-365.16] died: Mi-Suk was slain by paco
+[18Apr2025 22:59:34.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Goo'/65863, l='ServerLevel[world]', x=-352.27, y=111.00, z=-365.73] died, message: 'Goo was slain by paco'
+[18Apr2025 22:59:34.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Goo'/65863, l='ServerLevel[world]', x=-352.27, y=111.00, z=-365.73] died: Goo was slain by paco
+[18Apr2025 22:59:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Become the Grim Reaper]
+[18Apr2025 22:59:43.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 22:59:50.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[18Apr2025 23:00:18.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Syung'/65854, l='ServerLevel[world]', x=94.48, y=72.00, z=9.19] died, message: 'Syung was slain by _crab'
+[18Apr2025 23:00:18.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Syung'/65854, l='ServerLevel[world]', x=94.48, y=72.00, z=9.19] died: Syung was slain by _crab
+[18Apr2025 23:00:50.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported Johan to AlexaurusRex16]
+[18Apr2025 23:00:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has completed the challenge [A Soul for a Soul]
+[18Apr2025 23:01:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> está reviviendo a la esposa del laguna
+[18Apr2025 23:01:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> revive y le pilla siendo infiel
+[18Apr2025 23:01:43.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> conoció a un demonio mejor marido
+[18Apr2025 23:01:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> la ha mandado a casa
+[18Apr2025 23:02:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> puedo romper la tumba entonces?
+[18Apr2025 23:02:33.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> si nadie responde la rompo
+[18Apr2025 23:02:52.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> ya no hay vuelta atrás
+[18Apr2025 23:03:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> pero espera
+[18Apr2025 23:03:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> cuadno temrine la iglesia
+[18Apr2025 23:03:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> casate en condiciones

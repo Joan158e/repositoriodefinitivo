@@ -7982,6 +7982,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-04-18 22:57:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-04-18 22:40:57 +0000"
@@ -7991,6 +7997,12 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-18 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-04-18 22:59:34 +0000"
     },
     "done": true
   },
@@ -8009,6 +8021,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-18 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-04-18 23:00:57 +0000"
     },
     "done": true
   },
