@@ -97,3 +97,16 @@
 [18Apr2025 00:39:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
 [18Apr2025 00:39:50.588] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_18.04.2025-00.39.50.dat
 [18Apr2025 00:39:50.589] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 138 Y: 76.0 Z: -14
+[18Apr2025 00:40:36.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Kicked paco: Kicked by an operator]
+[18Apr2025 00:40:36.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Kicked by an operator
+[18Apr2025 00:40:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[18Apr2025 00:41:09.384] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@aa036e5[id=<null>,name=paco,properties={},legacy=false] (/127.89.181.175:54741) lost connection: Disconnected
+[18Apr2025 00:41:12.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:46899] logged in with entity id 24237 at (135.54721613785236, 76.0, -9.862699746532446)
+[18Apr2025 00:41:12.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[18Apr2025 00:41:13.023] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[18Apr2025 00:45:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[18Apr2025 00:46:09.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 00:47:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[18Apr2025 00:48:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Creative Mode]
+[18Apr2025 00:49:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[18Apr2025 00:49:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
