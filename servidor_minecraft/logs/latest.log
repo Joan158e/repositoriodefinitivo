@@ -18,3 +18,21 @@
 [18Apr2025 00:08:33.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [18Apr2025 00:08:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
 [18Apr2025 00:09:46.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[18Apr2025 00:11:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> trans
+[18Apr2025 00:11:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> gay
+[18Apr2025 00:11:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> emo
+[18Apr2025 00:14:12.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[18Apr2025 00:14:55.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to paco]
+[18Apr2025 00:15:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[18Apr2025 00:17:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[18Apr2025 00:17:31.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Kicked by an operator
+[18Apr2025 00:17:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[18Apr2025 00:17:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Kicked Johan: Kicked by an operator]
+[18Apr2025 00:17:31.138] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Apr2025 00:18:06.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@222ef2b5[id=<null>,name=Johan,properties={},legacy=false] (/127.125.122.202:37233) lost connection: Disconnected
+[18Apr2025 00:18:16.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:33043] logged in with entity id 20057 at (130.05444848214074, 108.5, -5.934826685465095)
+[18Apr2025 00:18:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[18Apr2025 00:18:16.769] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[18Apr2025 00:19:20.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 178.500000, 102.500000, -32.500000]
+[18Apr2025 00:19:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[18Apr2025 00:20:06.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
