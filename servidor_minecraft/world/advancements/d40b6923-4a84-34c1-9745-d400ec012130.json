@@ -3680,6 +3680,7 @@
       "tomato": "2025-04-18 22:34:05 +0000",
       "sugar_cane": "2025-04-17 22:54:11 +0000",
       "potato": "2025-04-10 00:12:34 +0000",
+      "nether_wart": "2025-04-18 23:56:39 +0000",
       "wheat": "2025-04-10 20:23:26 +0000",
       "carrot": "2025-04-13 16:47:33 +0000"
     },
@@ -7443,6 +7444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-18 23:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-18 23:00:01 +0000"
@@ -7452,6 +7459,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-18 23:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-18 23:56:33 +0000"
     },
     "done": true
   },
@@ -7488,6 +7501,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-18 23:00:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-18 23:56:33 +0000"
     },
     "done": true
   },
