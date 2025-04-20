@@ -30,11 +30,13 @@
       "minecraft:river": "2025-04-09 21:25:46 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 21:44:24 +0000",
       "minecraft:dripstone_caves": "2025-04-09 23:04:39 +0000",
+      "minecraft:snowy_taiga": "2025-04-20 23:16:13 +0000",
       "minecraft:cold_ocean": "2025-04-12 20:18:36 +0000",
       "minecraft:forest": "2025-04-09 21:34:20 +0000",
       "minecraft:lush_caves": "2025-04-11 23:12:13 +0000",
       "minecraft:jungle": "2025-04-10 21:45:15 +0000",
       "minecraft:ocean": "2025-04-10 21:37:17 +0000",
+      "minecraft:snowy_beach": "2025-04-20 23:16:07 +0000",
       "minecraft:windswept_savanna": "2025-04-12 20:16:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 21:45:07 +0000",
       "minecraft:savanna": "2025-04-12 19:24:58 +0000",
@@ -8279,6 +8281,12 @@
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-04-19 00:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-20 23:00:36 +0000"
     },
     "done": true
   },
