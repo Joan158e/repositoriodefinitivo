@@ -7624,6 +7624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 21:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-20 21:30:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-04-20 21:07:38 +0000"
@@ -7633,6 +7645,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
     "criteria": {
       "has_block": "2025-04-20 21:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-20 21:30:47 +0000"
     },
     "done": true
   },
@@ -7729,6 +7747,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-04-20 20:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-20 21:27:42 +0000"
     },
     "done": true
   },
