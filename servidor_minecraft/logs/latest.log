@@ -608,3 +608,124 @@ Reason: Banned by an operator.
 [20Apr2025 21:47:55.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4da5087b[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:42519) lost connection: You are banned from this server.
 Reason: Banned by an operator.
 [20Apr2025 21:47:55.299] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 21:48:15.052] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21765f8d[id=<null>,name=Johan,properties={},legacy=false] (/127.125.122.202:49173) lost connection: Disconnected
+[20Apr2025 21:48:18.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@d9e6fee[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:33925): You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:48:18.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d9e6fee[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:33925) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:48:18.699] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 21:48:36.651] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f5d480a[id=<null>,name=Johan,properties={},legacy=false] (/127.125.122.202:57897) lost connection: Disconnected
+[20Apr2025 21:49:01.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19ef3eb9[id=<null>,name=Johan,properties={},legacy=false] (/127.125.122.202:55741) lost connection: Disconnected
+[20Apr2025 21:49:06.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4efb1455[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:42203): You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:49:06.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4efb1455[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:42203) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:49:06.307] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 21:49:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Unbanned Johan]
+[20Apr2025 21:49:10.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:49791] logged in with entity id 20418 at (118.0719502370357, 94.0, 17.495415412221845)
+[20Apr2025 21:49:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[20Apr2025 21:49:10.916] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[20Apr2025 21:50:05.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [A Seedy Place]
+[20Apr2025 21:51:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab has made the advancement [The Parrots and the Bats]
+[20Apr2025 21:53:23.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab was killed
+[20Apr2025 21:53:23.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Killed _crab]
+[20Apr2025 21:53:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[20Apr2025 21:56:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to paco]
+[20Apr2025 22:00:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -632.500000, 81.500000, -1909.500000]
+[20Apr2025 22:00:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 22:00:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:00:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:24.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:01:30.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Summoned new Lightning Bolt]
+[20Apr2025 22:02:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Set own game mode to Spectator Mode]
+[20Apr2025 22:03:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported paco to Johan]
+[20Apr2025 22:03:25.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -787.500000, 64.500000, -1906.500000]
+[20Apr2025 22:04:02.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to 134.500000, 92.000000, 20.500000]
+[20Apr2025 22:05:16.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:05:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to Anau]
+[20Apr2025 22:05:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[20Apr2025 22:05:34.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Anau]
+[20Apr2025 22:05:40.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _crab lost connection: Disconnected
+[20Apr2025 22:05:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab left the game
+[20Apr2025 22:05:46.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _crab[/127.26.159.217:39139] logged in with entity id 27187 at (134.88224177235747, 76.0, -3.9370446718759733)
+[20Apr2025 22:05:46.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab joined the game
+[20Apr2025 22:05:46.805] [Server thread/INFO] [Jade/]: Syncing config to _crab (63226052-e3fe-316f-904a-a4e980b1af10)
+[20Apr2025 22:05:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[20Apr2025 22:06:13.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -743.500000, 73.500000, -708.500000]
+[20Apr2025 22:06:13.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was blown up by Creeper
+[20Apr2025 22:06:13.960] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_20.04.2025-22.06.13.dat
+[20Apr2025 22:06:13.960] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 256 Y: 87.0 Z: 33
+[20Apr2025 22:06:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 257.500000, 87.500000, 33.500000]
+[20Apr2025 22:07:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[20Apr2025 22:08:22.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -781.500000, 64.500000, -1901.500000]
+[20Apr2025 22:11:01.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anau lost connection: Disconnected
+[20Apr2025 22:11:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau left the game
+[20Apr2025 22:11:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:12:10.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:13:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:14:06.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:15:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:15:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[20Apr2025 22:15:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[20Apr2025 22:15:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported _crab to Johan]
+[20Apr2025 22:15:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[20Apr2025 22:15:22.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported _crab to Johan]
+[20Apr2025 22:15:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[20Apr2025 22:15:35.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Suit Up]
+[20Apr2025 22:16:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[20Apr2025 22:16:06.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.emerald_20.04.2025-22.16.06.dat
+[20Apr2025 22:16:06.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 119 Y: 76.0 Z: -7
+[20Apr2025 22:16:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab was turned to stone by Gorgon
+[20Apr2025 22:16:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -874.500000, 61.500000, -1816.500000]
+[20Apr2025 22:16:31.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [Another Brick in the Wall]
+[20Apr2025 22:16:38.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab was turned to stone by Gorgon
+[20Apr2025 22:16:46.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -868.500000, 65.500000, -1815.500000]
+[20Apr2025 22:16:54.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab was turned into gorgonzola by Gorgon
+[20Apr2025 22:17:01.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to -873.500000, 65.500000, -1818.500000]
+[20Apr2025 22:18:25.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:18:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:19:03.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 22:21:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco has made the advancement [The Song of the Dragons]
+[20Apr2025 22:22:29.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:22:53.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:23:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:24:18.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:26:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:26:41.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -806.500000, 78.500000, -1897.500000]
+[20Apr2025 22:27:05.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:50145] logged in with entity id 38139 at (134.56135961174215, 97.0, 38.54461200173442)
+[20Apr2025 22:27:05.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[20Apr2025 22:27:05.971] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[20Apr2025 22:29:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[20Apr2025 22:30:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[20Apr2025 22:30:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[20Apr2025 22:30:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> zz
+[20Apr2025 22:30:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:25.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> zz
+[20Apr2025 22:30:27.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_crab> z
+[20Apr2025 22:30:37.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[20Apr2025 22:30:42.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[20Apr2025 22:30:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[20Apr2025 22:30:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[20Apr2025 22:31:29.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 134.500000, 77.500000, 23.500000]
+[20Apr2025 22:31:40.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[20Apr2025 22:31:40.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[20Apr2025 22:31:46.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:47661] logged in with entity id 41033 at (134.5, 77.0, 23.5)
+[20Apr2025 22:31:46.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[20Apr2025 22:31:47.023] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[20Apr2025 22:32:46.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=55, z=566} BlockPos{x=442, y=56, z=566}
+[20Apr2025 22:33:51.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Johan) moved wrongly! 0.3288544296594864
+[20Apr2025 22:34:04.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 22:38:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 22:38:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
