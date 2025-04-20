@@ -729,3 +729,20 @@ Reason: Banned by an operator.
 [20Apr2025 22:34:04.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
 [20Apr2025 22:38:11.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
 [20Apr2025 22:38:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[20Apr2025 22:38:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[20Apr2025 22:40:34.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[20Apr2025 22:41:08.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 22:41:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to AlexaurusRex16]
+[20Apr2025 22:41:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to AlexaurusRex16]
+[20Apr2025 22:42:29.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[20Apr2025 22:42:30.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[20Apr2025 22:42:30.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[20Apr2025 22:42:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[20Apr2025 22:42:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[20Apr2025 22:42:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[20Apr2025 22:42:52.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[20Apr2025 22:43:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Spectator Mode]
+[20Apr2025 22:43:31.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Set own game mode to Survival Mode]
+[20Apr2025 22:43:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[20Apr2025 22:43:44.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[20Apr2025 22:45:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to AlexaurusRex16]
