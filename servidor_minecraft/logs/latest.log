@@ -554,3 +554,57 @@ Reason: Banned by an operator.
 [20Apr2025 21:37:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1677.500000, 68.500000, 932.500000]
 [20Apr2025 21:37:12.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was energized by Lightning Dragon
 [20Apr2025 21:37:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 21:38:19.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[20Apr2025 21:38:19.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[20Apr2025 21:38:34.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:58839] logged in with entity id 17106 at (146.29533648984906, 76.0, -0.4676131079889296)
+[20Apr2025 21:38:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[20Apr2025 21:38:34.763] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[20Apr2025 21:40:24.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to Johan]
+[20Apr2025 21:41:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1673.500000, 68.500000, 936.500000]
+[20Apr2025 21:41:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Lightning Dragon
+[20Apr2025 21:43:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Creative Mode]
+[20Apr2025 21:43:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1673.500000, 68.500000, 936.500000]
+[20Apr2025 21:43:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to _crab]
+[20Apr2025 21:43:34.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[20Apr2025 21:43:39.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[20Apr2025 21:43:39.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[20Apr2025 21:43:42.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anau[/127.206.124.17:54869] logged in with entity id 19058 at (135.1781683514872, 50.0, 71.53721026514569)
+[20Apr2025 21:43:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anau joined the game
+[20Apr2025 21:43:42.665] [Server thread/INFO] [Jade/]: Syncing config to Anau (acd1c713-46ba-358c-8e2e-2ecf980537af)
+[20Apr2025 21:43:45.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.125.122.202:45119] logged in with entity id 19090 at (127.69933088870332, 88.0, 18.357286875188773)
+[20Apr2025 21:43:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[20Apr2025 21:43:45.712] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[20Apr2025 21:45:14.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Kicked paco: Kicked by an operator]
+[20Apr2025 21:45:14.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Kicked by an operator
+[20Apr2025 21:45:14.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[20Apr2025 21:45:29.647] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72b5033f[id=<null>,name=paco,properties={},legacy=false] (/127.89.181.175:55359) lost connection: Disconnected
+[20Apr2025 21:45:43.103] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3353407a[id=<null>,name=paco,properties={},legacy=false] (/127.89.181.175:50449) lost connection: Disconnected
+[20Apr2025 21:45:46.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:60081] logged in with entity id 19664 at (131.8490062540184, 72.0, 6.70421905478262)
+[20Apr2025 21:45:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[20Apr2025 21:45:46.565] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[20Apr2025 21:47:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Kicked paco: Kicked by an operator]
+[20Apr2025 21:47:17.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Kicked by an operator
+[20Apr2025 21:47:17.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[20Apr2025 21:47:24.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:55655] logged in with entity id 19939 at (134.8042058304573, 72.79673560066871, 13.208930707544404)
+[20Apr2025 21:47:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[20Apr2025 21:47:24.512] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[20Apr2025 21:47:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anau: Kicked paco: Kicked by an operator]
+[20Apr2025 21:47:28.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Kicked by an operator
+[20Apr2025 21:47:28.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[20Apr2025 21:47:34.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: paco[/127.89.181.175:38141] logged in with entity id 19975 at (134.8042058304573, 72.0, 13.208930707544404)
+[20Apr2025 21:47:34.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco joined the game
+[20Apr2025 21:47:34.267] [Server thread/INFO] [Jade/]: Syncing config to paco (c071fbdb-12f6-3dae-9919-8cdbc58fa1b3)
+[20Apr2025 21:47:35.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported Johan to _crab]
+[20Apr2025 21:47:41.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Banned Johan: Banned by an operator.]
+[20Apr2025 21:47:41.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: You are banned from this server
+[20Apr2025 21:47:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[20Apr2025 21:47:47.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3084c266[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:40555): You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:47:47.949] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3084c266[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:40555) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:47:47.998] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 21:47:55.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4da5087b[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:42519): You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:47:55.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4da5087b[id=d40b6923-4a84-34c1-9745-d400ec012130,name=Johan,properties={},legacy=false] (/127.125.122.202:42519) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20Apr2025 21:47:55.299] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

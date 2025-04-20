@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "d40b6923-4a84-34c1-9745-d400ec012130",
+    "name": "Johan",
+    "created": "2025-04-20 21:47:41 +0000",
+    "source": "paco",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
