@@ -19,3 +19,40 @@
 [21Apr2025 00:10:43.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
 [21Apr2025 00:10:43.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
 [21Apr2025 00:10:47.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[21Apr2025 00:11:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[21Apr2025 00:15:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to _crab]
+[21Apr2025 00:16:26.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco moved wrongly!
+[21Apr2025 00:16:57.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[21Apr2025 00:18:44.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Next Generation]
+[21Apr2025 00:19:00.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anna'/24450, l='ServerLevel[world]', x=155.28, y=76.00, z=13.87] died, message: 'Anna (Following) hit the ground too hard'
+[21Apr2025 00:19:00.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anna'/24450, l='ServerLevel[world]', x=155.28, y=76.00, z=13.87] died: Anna (Following) fell from a high place
+[21Apr2025 00:19:51.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported AlexaurusRex16 to paco]
+[21Apr2025 00:20:14.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported _crab to paco]
+[21Apr2025 00:21:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to 1110.500000, 70.500000, -398.500000]
+[21Apr2025 00:21:06.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[21Apr2025 00:21:19.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to -623.500000, 80.500000, -1953.500000]
+[21Apr2025 00:21:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Tie me to the Mast]
+[21Apr2025 00:22:54.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Urmas'/100000, l='ServerLevel[world]', x=-611.13, y=69.00, z=-1906.34] died, message: 'Urmas was slain by paco'
+[21Apr2025 00:22:54.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Urmas'/100000, l='ServerLevel[world]', x=-611.13, y=69.00, z=-1906.34] died: Urmas was slain by paco
+[21Apr2025 00:22:58.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to _crab]
+[21Apr2025 00:23:31.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to _crab]
+[21Apr2025 00:23:47.984] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[21Apr2025 00:23:47.984] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[21Apr2025 00:25:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3552.500000, 67.500000, 496.500000]
+[21Apr2025 00:26:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[21Apr2025 00:27:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to Johan]
+[21Apr2025 00:27:15.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Teleported paco to _crab]
+[21Apr2025 00:27:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[21Apr2025 00:27:28.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_crab: Teleported paco to AlexaurusRex16]
+[21Apr2025 00:30:44.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [paco: Kicked AlexaurusRex16: Kicked by an operator]
+[21Apr2025 00:30:44.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Kicked by an operator
+[21Apr2025 00:30:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[21Apr2025 00:30:50.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _crab lost connection: Disconnected
+[21Apr2025 00:30:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _crab left the game
+[21Apr2025 00:30:53.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:43515] logged in with entity id 104097 at (133.29103222135254, 98.81470334025373, 40.98058290435081)
+[21Apr2025 00:30:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[21Apr2025 00:30:53.422] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[21Apr2025 00:31:08.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: paco lost connection: Disconnected
+[21Apr2025 00:31:08.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: paco left the game
+[21Apr2025 00:31:15.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[21Apr2025 00:31:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
