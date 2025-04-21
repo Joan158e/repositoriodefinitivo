@@ -7793,6 +7793,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-21 00:06:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-21 00:06:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-21 00:05:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-04-20 23:35:26 +0000"
@@ -7802,6 +7820,12 @@
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2025-04-20 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-04-21 00:05:36 +0000"
     },
     "done": true
   },
@@ -7817,15 +7841,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-04-21 00:06:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
     "criteria": {
       "has_sea_serpent_scales_purple": "2025-04-20 23:35:31 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-21 00:05:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-04-21 00:05:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_leggings": {
     "criteria": {
       "has_item": "2025-04-20 23:35:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-21 00:05:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-21 00:06:52 +0000"
     },
     "done": true
   },
@@ -7856,6 +7910,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-04-20 23:35:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-21 00:06:52 +0000"
     },
     "done": true
   },

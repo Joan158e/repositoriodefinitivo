@@ -7059,6 +7059,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-04-20 23:19:57 +0000"
@@ -7071,9 +7077,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-20 22:34:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-04-21 00:07:04 +0000"
     },
     "done": true
   },
@@ -7089,6 +7119,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-04-20 23:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 22:11:32 +0000"
@@ -7098,6 +7134,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
     },
     "done": true
   },
@@ -7119,15 +7161,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-20 22:34:22 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-20 22:34:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 23:59:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
     },
     "done": true
   },
@@ -7146,6 +7212,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-04-20 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-04-21 00:07:04 +0000"
     },
     "done": true
   },
@@ -7179,9 +7257,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-04-20 22:11:27 +0000"
+    },
+    "done": true
+  },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-04-21 00:04:45 +0000"
     },
     "done": true
   },
@@ -7191,9 +7281,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-04-20 23:44:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-04-20 23:19:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-04-20 23:59:47 +0000"
     },
     "done": true
   },
@@ -7209,9 +7311,21 @@
     },
     "done": true
   },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby_drop_attempts": "2025-04-21 00:04:45 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-04-20 23:20:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-04-21 00:07:04 +0000"
     },
     "done": true
   },
