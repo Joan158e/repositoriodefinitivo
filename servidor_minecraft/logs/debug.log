@@ -7045,3 +7045,30 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 19:55:55.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 19:58:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 19:59:28.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Spectator Mode]
+[01May2025 20:00:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 20:00:55.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 20:02:58.772] [Worker-Main-290/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=95, y=69, z=1170}
+[01May2025 20:02:58.773] [Worker-Main-290/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[01May2025 20:02:58.773] [Worker-Main-290/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[01May2025 20:02:58.773] [Worker-Main-290/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOOOPXz8+S1WU9r8mXntzd+Xvzerubnvmbvk8inySkS+tbtb8jzb8jzfn
+[01May2025 20:03:06.721] [Worker-Main-271/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=2, y=70, z=1223}
+[01May2025 20:03:06.721] [Worker-Main-271/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[01May2025 20:03:06.721] [Worker-Main-271/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[01May2025 20:03:06.721] [Worker-Main-271/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxJ+Xf1X0067b+V1671vb+td+k0+XfyWuvXi7ev07
+[01May2025 20:04:23.461] [Worker-Main-291/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=406, y=68, z=1810}
+[01May2025 20:04:23.461] [Worker-Main-291/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[01May2025 20:04:23.461] [Worker-Main-291/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[01May2025 20:04:23.461] [Worker-Main-291/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJx+X0nvyXzenv0j9t+Sy9+b09f0mS+fnty+fvzb+ki9S
+[01May2025 20:04:24.867] [Worker-Main-289/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=495, y=66, z=1827}
+[01May2025 20:04:24.867] [Worker-Main-289/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[01May2025 20:04:24.867] [Worker-Main-289/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[01May2025 20:04:24.867] [Worker-Main-289/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxPX1+nyWnXb07+uuvfS70mXfevf0ky7+Wt60nV71vcn
+[01May2025 20:05:55.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 20:05:55.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 20:05:55.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
+[01May2025 20:06:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 20:08:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3261.500000, 68.500000, 2527.500000]
+[01May2025 20:08:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 20:09:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 138.500000, 93.500000, 20.500000]
+[01May2025 20:10:55.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 20:10:55.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
