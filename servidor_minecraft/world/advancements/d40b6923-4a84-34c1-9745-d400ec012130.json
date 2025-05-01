@@ -8696,6 +8696,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-01 19:37:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-05-01 15:07:43 +0000"
