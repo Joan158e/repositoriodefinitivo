@@ -496,3 +496,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 12:15:47.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['esther'/111, l='ServerLevel[world]', x=148.96, y=76.00, z=24.06] died: esther fell off a ladder
 [01May2025 12:21:36.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
 [01May2025 12:21:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[01May2025 12:34:26.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 12:34:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game

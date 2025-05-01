@@ -6525,3 +6525,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 12:21:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
 [01May2025 12:23:58.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 12:23:58.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 12:28:58.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 12:28:58.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 12:33:58.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 12:33:58.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 12:34:26.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 12:34:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
