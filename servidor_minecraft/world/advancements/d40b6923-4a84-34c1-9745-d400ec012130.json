@@ -8024,6 +8024,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 12:12:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
     "criteria": {
       "has_magenta_dye": "2025-05-01 11:49:29 +0000"
@@ -8078,9 +8084,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-05-01 12:09:15 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-05-01 11:49:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-05-01 12:09:23 +0000"
     },
     "done": true
   },

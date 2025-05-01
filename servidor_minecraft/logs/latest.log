@@ -479,3 +479,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 11:56:58.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported Johan to AlexaurusRex16]
 [01May2025 12:03:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [01May2025 12:04:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 12:06:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 12:06:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 12:09:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[01May2025 12:09:15.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved wrongly!
+[01May2025 12:09:17.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved wrongly!
+[01May2025 12:09:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 12:09:23.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Rocks Off!]
+[01May2025 12:11:08.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 12:13:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[01May2025 12:13:31.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Rocks Off!]
