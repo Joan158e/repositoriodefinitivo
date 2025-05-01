@@ -5880,3 +5880,35 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 16:02:57.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> PUTA
 [01May2025 16:05:50.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 16:05:50.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:08:55.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> zzzzz
+[01May2025 16:08:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> zzz
+[01May2025 16:08:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> z
+[01May2025 16:10:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 16:10:50.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:10:50.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:11:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 16:15:50.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:15:50.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:17:00.975] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[01May2025 16:17:00.975] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[01May2025 16:17:46.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> una es hello kitty y la otra es gotica
+[01May2025 16:20:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 16:20:50.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:20:50.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:21:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 16:21:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 16:21:24.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[01May2025 16:22:42.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 16:24:36.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 119.500000, 1.500000, 72.500000]
+[01May2025 16:25:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 16:25:50.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:25:50.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:27:32.242] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=133, y=108, z=40}
+[01May2025 16:30:12.690] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=134, y=106, z=39}
+[01May2025 16:30:50.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:30:50.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:35:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> no mires el grupo xd
+[01May2025 16:35:50.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 16:35:50.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 16:36:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3512.500000, 84.500000, 3196.500000]
+[01May2025 16:36:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
