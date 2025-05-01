@@ -8479,6 +8479,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 15:36:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-05-01 15:28:03 +0000"
