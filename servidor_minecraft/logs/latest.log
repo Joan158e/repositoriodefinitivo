@@ -489,3 +489,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 12:11:08.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 12:13:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [01May2025 12:13:31.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Rocks Off!]
+[01May2025 12:15:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 12:15:22.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 796.500000, 78.500000, 1319.500000]
+[01May2025 12:15:24.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 12:15:47.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['esther'/111, l='ServerLevel[world]', x=148.96, y=76.00, z=24.06] died, message: 'esther hit the ground too hard'
+[01May2025 12:15:47.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['esther'/111, l='ServerLevel[world]', x=148.96, y=76.00, z=24.06] died: esther fell off a ladder
+[01May2025 12:21:36.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[01May2025 12:21:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
