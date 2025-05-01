@@ -558,3 +558,31 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 14:02:27.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
 [01May2025 14:02:50.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 14:02:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:06:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 310.500000, 63.500000, 440.500000]
+[01May2025 14:06:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1544.500000, 79.500000, 1310.500000]
+[01May2025 14:07:14.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1963.500000, 118.500000, 1079.500000]
+[01May2025 14:07:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 14:07:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:07:31.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 796.500000, 78.500000, 1319.500000]
+[01May2025 14:07:59.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 14:08:15.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan burned to death
+[01May2025 14:08:15.957] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_01.05.2025-14.08.15.dat
+[01May2025 14:08:15.959] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 793 Y: 78.5 Z: 1320
+[01May2025 14:08:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:08:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 14:09:03.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -632.500000, 81.500000, -1909.500000]
+[01May2025 14:09:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:09:40.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Ol' Betsy]
+[01May2025 14:16:00.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 796.500000, 78.500000, 1319.500000]
+[01May2025 14:16:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 885.500000, 95.500000, 459.500000]
+[01May2025 14:16:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 897.500000, 75.500000, 202.500000]
+[01May2025 14:17:23.870] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[01May2025 14:17:23.870] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:jungle_undergrowth_leaves} not valid leaves for Species{registryName=dynamictrees:jungle}.
+[01May2025 14:28:00.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:29:03.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1195.500000, 82.500000, 904.500000]
+[01May2025 14:29:53.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:31:47.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1195.500000, 79.500000, 886.500000]
+[01May2025 14:32:17.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 14:34:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 14:34:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1173.500000, 73.500000, 906.500000]
+[01May2025 14:34:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
