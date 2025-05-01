@@ -8407,9 +8407,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:28:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:28:03 +0000"
     },
     "done": true
   },
@@ -8467,9 +8479,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:28:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:28:03 +0000"
     },
     "done": true
   },
@@ -8569,6 +8593,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-05-01 15:33:00 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
@@ -8608,6 +8638,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-05-01 15:28:03 +0000"
     },
     "done": true
   },

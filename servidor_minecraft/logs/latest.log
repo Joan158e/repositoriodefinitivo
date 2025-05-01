@@ -713,3 +713,15 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 15:25:55.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Margarida'/43194, l='ServerLevel[world]', x=3534.24, y=81.31, z=2930.56] died: Margarida was slain by Fire Dragon
 [01May2025 15:26:14.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nataniel'/43328, l='ServerLevel[world]', x=3478.28, y=83.56, z=2899.08] died, message: 'Nataniel was slain by Fire Dragon'
 [01May2025 15:26:14.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nataniel'/43328, l='ServerLevel[world]', x=3478.28, y=83.56, z=2899.08] died: Nataniel was slain by Fire Dragon
+[01May2025 15:26:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:27:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan burned to death
+[01May2025 15:27:34.448] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_01.05.2025-15.27.34.dat
+[01May2025 15:27:34.449] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 3571 Y: 65.0 Z: 2794
+[01May2025 15:27:42.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:27:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:29:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:30:15.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 130.500000, 70.500000, 46.500000]
+[01May2025 15:31:23.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 15:33:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Splintering II]
+[01May2025 15:33:31.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:36:17.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
