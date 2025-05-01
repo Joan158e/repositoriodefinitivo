@@ -1540,3 +1540,45 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 20:51:38.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzzzz
 [01May2025 20:51:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzzz
 [01May2025 20:51:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 20:52:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 20:53:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 20:53:03.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 20:53:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was killed by Evoker using magic
+[01May2025 20:53:07.383] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for AlexaurusRex16 with unique ID travelersbackpack.wolf_01.05.2025-20.53.07.dat
+[01May2025 20:53:07.384] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 130 Y: 76.0 Z: 28
+[01May2025 20:54:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 127.500000, 76.500000, 8.500000]
+[01May2025 20:54:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 20:54:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 20:54:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[01May2025 20:55:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 20:56:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 20:56:19.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_01.05.2025-20.56.19.dat
+[01May2025 20:56:19.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 183 Y: 77.0 Z: -22
+[01May2025 20:56:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 187.500000, 77.500000, -21.500000]
+[01May2025 20:56:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 20:56:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 179.500000, 77.500000, -18.500000]
+[01May2025 20:57:10.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 20:57:16.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 183.500000, 77.500000, -19.500000]
+[01May2025 20:57:27.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 20:57:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 184.500000, 77.500000, -23.500000]
+[01May2025 20:57:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[01May2025 20:57:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 88.500000, 69.500000, -61.500000]
+[01May2025 20:57:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vindicator
+[01May2025 20:57:57.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 173.500000, 76.500000, -2.500000]
+[01May2025 20:58:18.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[01May2025 20:58:24.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 87.500000, 71.500000, 1.500000]
+[01May2025 20:58:35.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has reached the goal [Postmortal]
+[01May2025 20:58:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vindicator
+[01May2025 20:58:54.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 20:58:57.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 127.500000, 71.500000, 42.500000]
+[01May2025 20:58:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 174.500000, 76.500000, -6.500000]
+[01May2025 20:59:26.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has reached the goal [Postmortal]
+[01May2025 20:59:52.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vindicator
+[01May2025 20:59:54.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was killed by Evoker using magic
+[01May2025 20:59:56.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 183.500000, 75.500000, -0.500000]
+[01May2025 21:00:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 173.500000, 76.500000, -11.500000]
+[01May2025 21:00:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Vex
+[01May2025 21:00:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 was slain by Vex
+[01May2025 21:00:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 172.500000, 76.500000, -6.500000]
+[01May2025 21:00:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 184.500000, 76.500000, -9.500000]
+[01May2025 21:01:58.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 156.500000, 74.500000, 37.500000]
