@@ -7716,3 +7716,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 21:09:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has completed the challenge [Best Friends]
 [01May2025 21:10:55.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 21:10:55.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 21:14:04.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 21:15:55.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 21:15:55.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 21:15:59.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 2896.500000, 106.500000, 2129.500000]
+[01May2025 21:16:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 21:17:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 2968.500000, 113.500000, 2221.500000]
+[01May2025 21:17:57.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 21:20:55.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 21:20:55.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 21:22:30.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Enchanter]

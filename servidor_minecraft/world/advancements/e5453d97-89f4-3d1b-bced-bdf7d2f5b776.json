@@ -9497,6 +9497,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 21:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-01 20:09:20 +0000"
