@@ -8174,9 +8174,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-01 14:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-05-01 14:19:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 14:35:04 +0000"
     },
     "done": true
   },
@@ -8237,6 +8249,12 @@
   "mca:recipes/decorations/orange_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 14:35:04 +0000"
     },
     "done": true
   },
@@ -8324,6 +8342,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 14:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-01 14:19:24 +0000"
@@ -8402,6 +8426,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-05-01 14:35:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
@@ -8423,6 +8453,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 14:35:04 +0000"
     },
     "done": true
   },
