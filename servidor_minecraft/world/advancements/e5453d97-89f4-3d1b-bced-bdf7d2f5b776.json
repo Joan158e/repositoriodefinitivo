@@ -9511,6 +9511,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-05-01 22:44:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_sword": {
     "criteria": {
       "has_the_recipe": "2025-05-01 21:18:41 +0000"
@@ -9520,6 +9526,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-05-01 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-01 22:50:12 +0000"
     },
     "done": true
   },
