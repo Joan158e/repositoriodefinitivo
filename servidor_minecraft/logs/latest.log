@@ -390,3 +390,26 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 10:48:25.987] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01May2025 10:48:25.987] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01May2025 10:48:25.988] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01May2025 10:55:39.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[01May2025 10:55:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[01May2025 10:57:02.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6f12404e[id=<null>,name=AlexaurusRex16,properties={},legacy=false] (/127.207.162.92:40467): Took too long to log in
+[01May2025 10:57:02.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f12404e[id=<null>,name=AlexaurusRex16,properties={},legacy=false] (/127.207.162.92:40467) lost connection: Took too long to log in
+[01May2025 10:57:02.517] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 10:57:25.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 10:57:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[01May2025 10:57:35.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:43591] logged in with entity id 2153 at (131.61971516160887, 82.0, 14.689456056747272)
+[01May2025 10:57:35.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[01May2025 10:57:35.397] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[01May2025 10:57:38.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:45665] logged in with entity id 2212 at (132.248467156922, 72.0, 7.174807581663288)
+[01May2025 10:57:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[01May2025 10:57:38.365] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[01May2025 10:57:52.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[01May2025 10:57:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[01May2025 10:59:04.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:51739] logged in with entity id 2382 at (132.248467156922, 72.0, 7.174807581663288)
+[01May2025 10:59:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[01May2025 10:59:04.258] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[01May2025 11:00:28.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 11:00:28.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[01May2025 11:02:37.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:40591] logged in with entity id 2841 at (126.82014883956549, 76.0, 32.46943780414823)
+[01May2025 11:02:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[01May2025 11:02:37.700] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
