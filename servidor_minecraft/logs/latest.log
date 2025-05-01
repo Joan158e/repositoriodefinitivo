@@ -1473,3 +1473,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 18:50:53.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [01May2025 18:54:08.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 132.500000, 76.500000, -14.500000]
 [01May2025 19:08:11.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3404.500000, 78.500000, 3064.500000]
+[01May2025 19:10:13.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 135.500000, 111.500000, -4.500000]
+[01May2025 19:16:46.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]

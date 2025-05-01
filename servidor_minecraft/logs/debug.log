@@ -6841,3 +6841,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 19:05:55.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 19:05:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 19:08:11.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3404.500000, 78.500000, 3064.500000]
+[01May2025 19:10:13.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 135.500000, 111.500000, -4.500000]
+[01May2025 19:10:55.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 19:10:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 19:15:55.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 19:15:55.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 19:16:46.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
