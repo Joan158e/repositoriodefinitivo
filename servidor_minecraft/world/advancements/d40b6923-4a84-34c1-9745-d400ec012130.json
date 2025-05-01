@@ -79,6 +79,7 @@
       "minecraft:birch_forest": "2025-04-09 23:22:06 +0000",
       "minecraft:windswept_hills": "2025-04-09 22:25:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-10 21:03:31 +0000",
+      "minecraft:wooded_badlands": "2025-05-01 15:16:21 +0000",
       "minecraft:badlands": "2025-05-01 15:12:29 +0000",
       "minecraft:savanna_plateau": "2025-05-01 15:02:03 +0000",
       "minecraft:beach": "2025-04-09 21:39:26 +0000",
@@ -3468,6 +3469,7 @@
       "minecraft:phantom": "2025-04-17 23:06:35 +0000",
       "minecraft:zombified_piglin": "2025-04-13 22:11:40 +0000",
       "minecraft:witch": "2025-04-12 22:02:16 +0000",
+      "minecraft:husk": "2025-05-01 15:20:43 +0000",
       "minecraft:cave_spider": "2025-04-10 20:46:02 +0000",
       "minecraft:silverfish": "2025-04-09 22:11:38 +0000",
       "minecraft:enderman": "2025-04-13 17:32:58 +0000",
@@ -8219,6 +8221,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-01 15:20:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-05-01 15:07:43 +0000"
@@ -8228,6 +8242,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-05-01 15:05:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 15:21:16 +0000"
     },
     "done": true
   },
@@ -8258,6 +8278,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:22:22 +0000"
     },
     "done": true
   },
@@ -8321,9 +8347,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:22:22 +0000"
     },
     "done": true
   },
@@ -8348,6 +8386,12 @@
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-05-01 14:35:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:18 +0000"
     },
     "done": true
   },
@@ -8453,6 +8497,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 15:07:43 +0000"
@@ -8465,6 +8515,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:22:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
@@ -8474,6 +8530,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:21:20 +0000"
     },
     "done": true
   },
@@ -8525,6 +8587,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-05-01 14:35:04 +0000"
@@ -8564,6 +8632,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:18 +0000"
     },
     "done": true
   },
@@ -8639,6 +8713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-01 15:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-05-01 14:24:10 +0000"
@@ -8666,6 +8746,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:21:20 +0000"
     },
     "done": true
   },
@@ -8732,6 +8818,12 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:21:20 +0000"
     },
     "done": true
   },

@@ -23,6 +23,7 @@
       "minecraft:sunflower_plains": "2025-04-12 19:33:05 +0000",
       "minecraft:birch_forest": "2025-04-09 22:41:19 +0000",
       "minecraft:bamboo_jungle": "2025-04-18 22:11:59 +0000",
+      "minecraft:wooded_badlands": "2025-05-01 15:16:25 +0000",
       "minecraft:badlands": "2025-05-01 15:12:30 +0000",
       "minecraft:savanna_plateau": "2025-04-11 21:28:50 +0000",
       "minecraft:beach": "2025-04-10 21:43:47 +0000",
@@ -178,6 +179,7 @@
       "minecraft:evoker": "2025-04-12 22:07:23 +0000",
       "minecraft:phantom": "2025-04-17 22:57:44 +0000",
       "minecraft:witch": "2025-04-12 18:44:19 +0000",
+      "minecraft:husk": "2025-05-01 15:23:42 +0000",
       "minecraft:cave_spider": "2025-04-10 20:38:55 +0000",
       "minecraft:piglin": "2025-04-13 17:49:08 +0000",
       "minecraft:enderman": "2025-04-09 23:14:16 +0000",
@@ -8606,6 +8608,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8660,6 +8668,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8681,6 +8695,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
     "criteria": {
       "has_magenta_dye": "2025-05-01 14:45:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-05-01 15:16:25 +0000"
     },
     "done": true
   },
@@ -8834,6 +8854,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-05-01 15:16:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/magenta_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:45:25 +0000"
@@ -8876,6 +8902,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-05-01 15:17:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8885,6 +8917,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_basin": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:54 +0000"
     },
     "done": true
   },
@@ -8945,6 +8983,12 @@
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-05-01 14:58:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:18:54 +0000"
     },
     "done": true
   },
