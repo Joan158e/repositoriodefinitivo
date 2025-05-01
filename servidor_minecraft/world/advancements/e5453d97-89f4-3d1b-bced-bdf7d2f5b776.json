@@ -8513,6 +8513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 16:22:39 +0000"
@@ -8522,6 +8528,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 16:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
@@ -8663,6 +8675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-05-01 15:18:54 +0000"
@@ -8759,6 +8777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8768,6 +8792,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_toilet": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
@@ -8807,9 +8837,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
@@ -8933,6 +8975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-01 16:22:39 +0000"
@@ -9005,9 +9053,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
     "criteria": {
       "has_magenta_dye": "2025-05-01 14:45:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
@@ -9092,6 +9152,12 @@
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-05-01 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
@@ -9281,6 +9347,12 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-05-01 17:54:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -9326,6 +9398,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-05-01 14:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-01 17:50:33 +0000"
     },
     "done": true
   },
