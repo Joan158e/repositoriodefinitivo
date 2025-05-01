@@ -7970,9 +7970,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 11:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 11:27:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-05-01 11:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 11:27:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-05-01 11:27:09 +0000"
     },
     "done": true
   },
