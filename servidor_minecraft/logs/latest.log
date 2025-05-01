@@ -413,3 +413,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 11:02:37.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:40591] logged in with entity id 2841 at (126.82014883956549, 76.0, 32.46943780414823)
 [01May2025 11:02:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
 [01May2025 11:02:37.700] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[01May2025 11:04:01.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 11:04:56.079] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:azalea_leaves} not valid leaves for Species{registryName=dynamictrees:oak}.
+[01May2025 11:05:29.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 11:05:29.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[01May2025 11:06:17.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.240.196.61:46507] logged in with entity id 5100 at (3586.4485501677373, 63.0, 472.63252712211954)
+[01May2025 11:06:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[01May2025 11:06:17.867] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[01May2025 11:07:18.558] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[01May2025 11:07:18.559] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[01May2025 11:07:21.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has reached the goal [Ice Scream]
+[01May2025 11:09:50.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 11:10:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Surfer Rosa]
+[01May2025 11:10:23.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 11:10:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to Johan]
+[01May2025 11:10:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 11:10:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> se parece a la gotica
+[01May2025 11:11:19.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> duro
+[01May2025 11:12:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 11:12:36.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
