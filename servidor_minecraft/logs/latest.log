@@ -1497,3 +1497,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 20:08:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3261.500000, 68.500000, 2527.500000]
 [01May2025 20:08:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 20:09:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 138.500000, 93.500000, 20.500000]
+[01May2025 20:14:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 20:15:11.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 moved wrongly!
+[01May2025 20:15:19.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 2769.500000, 84.500000, 2285.500000]
+[01May2025 20:16:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 20:19:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was energized by a dragon
+[01May2025 20:19:27.030] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_01.05.2025-20.19.27.dat
+[01May2025 20:19:27.031] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 2725 Y: 79.0 Z: 2181
+[01May2025 20:19:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 20:20:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 20:20:42.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[01May2025 20:20:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[01May2025 20:20:42.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 20:20:51.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:57205] logged in with entity id 120785 at (130.54401103863748, 114.0, -11.887937018803411)
+[01May2025 20:20:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[01May2025 20:20:51.747] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[01May2025 20:21:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
