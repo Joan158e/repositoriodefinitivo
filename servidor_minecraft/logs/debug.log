@@ -5957,3 +5957,16 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 17:21:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 17:25:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 17:25:55.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:30:27.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> no es simetrico
+[01May2025 17:30:35.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> mucho rosa
+[01May2025 17:30:53.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> se le notan los pixeles
+[01May2025 17:30:55.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:30:55.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:31:18.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> menos mal que no nació hombre
+[01May2025 17:35:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:35:55.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:36:01.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 3404.500000, 78.500000, 3064.500000]
+[01May2025 17:37:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 17:37:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 17:38:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> menos mal que no nació hombre
+[01May2025 17:38:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
