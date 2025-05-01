@@ -812,3 +812,16 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 17:54:05.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [They Grow Up So Fast]
 [01May2025 17:54:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [01May2025 17:55:02.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> xd
+[01May2025 18:00:51.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 18:03:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Paul Atreides]
+[01May2025 18:07:48.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 18:08:04.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 18:08:28.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[01May2025 18:08:28.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[01May2025 18:08:41.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlexaurusRex16[/127.207.162.92:48879] logged in with entity id 89211 at (133.05509100060232, 77.0, 16.199274653181373)
+[01May2025 18:08:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 joined the game
+[01May2025 18:08:41.617] [Server thread/INFO] [Jade/]: Syncing config to AlexaurusRex16 (e5453d97-89f4-3d1b-bced-bdf7d2f5b776)
+[01May2025 18:09:33.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexaurusRex16 lost connection: Disconnected
+[01May2025 18:09:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 left the game
+[01May2025 18:11:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[01May2025 18:11:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
