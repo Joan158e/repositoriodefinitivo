@@ -739,3 +739,15 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 15:55:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
 [01May2025 15:56:33.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anna'/56, l='ServerLevel[world]', x=125.28, y=76.00, z=22.19] died, message: 'Anna hit the ground too hard whilst trying to escape Zombie'
 [01May2025 15:56:33.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anna'/56, l='ServerLevel[world]', x=125.28, y=76.00, z=22.19] died: Anna was doomed to fall by Zombie
+[01May2025 15:57:10.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[01May2025 15:57:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 15:57:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 15:58:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:59:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 16:00:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 16:01:36.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 16:01:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 16:01:47.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 16:02:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> propongo hacer una csa
+[01May2025 16:02:49.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> no digas nada por el grupo
+[01May2025 16:02:57.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> PUTA
