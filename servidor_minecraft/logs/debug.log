@@ -5853,3 +5853,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 15:45:50.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 15:45:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> muchas ventanas
 [01May2025 15:46:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> el ordenador cuanto ocupa?
+[01May2025 15:48:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> el ordenador cuanto ocupa?
+[01May2025 15:48:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:50:50.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 15:50:50.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 15:50:50.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:52:21.491] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=133, y=73, z=8}
+[01May2025 15:55:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:55:50.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 15:55:50.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 15:56:33.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anna'/56, l='ServerLevel[world]', x=125.28, y=76.00, z=22.19] died, message: 'Anna hit the ground too hard whilst trying to escape Zombie'
+[01May2025 15:56:33.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anna'/56, l='ServerLevel[world]', x=125.28, y=76.00, z=22.19] died: Anna was doomed to fall by Zombie
