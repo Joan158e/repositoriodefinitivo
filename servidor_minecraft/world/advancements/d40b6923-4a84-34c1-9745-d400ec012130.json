@@ -79,6 +79,8 @@
       "minecraft:birch_forest": "2025-04-09 23:22:06 +0000",
       "minecraft:windswept_hills": "2025-04-09 22:25:24 +0000",
       "minecraft:bamboo_jungle": "2025-04-10 21:03:31 +0000",
+      "minecraft:badlands": "2025-05-01 15:12:29 +0000",
+      "minecraft:savanna_plateau": "2025-05-01 15:02:03 +0000",
       "minecraft:beach": "2025-04-09 21:39:26 +0000",
       "minecraft:dark_forest": "2025-04-21 00:13:28 +0000",
       "minecraft:sparse_jungle": "2025-04-10 20:58:32 +0000",
@@ -91,6 +93,7 @@
       "minecraft:forest": "2025-04-09 21:35:01 +0000",
       "minecraft:lush_caves": "2025-04-10 20:59:53 +0000",
       "minecraft:frozen_ocean": "2025-04-09 22:01:13 +0000",
+      "minecraft:desert": "2025-05-01 15:13:15 +0000",
       "minecraft:ocean": "2025-04-09 21:41:35 +0000",
       "minecraft:jungle": "2025-04-10 21:48:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-20 22:43:31 +0000",
@@ -8174,6 +8177,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-05-01 14:36:24 +0000"
@@ -8183,6 +8198,36 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-05-01 14:19:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-01 15:05:59 +0000"
     },
     "done": true
   },
@@ -8198,6 +8243,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
@@ -8207,6 +8264,18 @@
   "mca:recipes/decorations/lime_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8225,6 +8294,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-01 14:09:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8252,6 +8327,24 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-05-01 14:35:04 +0000"
@@ -8270,15 +8363,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-05-01 15:14:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-01 14:19:24 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8291,6 +8414,12 @@
   "mca:recipes/decorations/light_blue_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8318,15 +8447,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-05-01 14:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8342,9 +8513,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-05-01 14:35:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8366,6 +8555,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-01 14:24:06 +0000"
@@ -8381,6 +8588,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:59 +0000"
     },
     "done": true
   },
@@ -8414,6 +8627,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
@@ -8426,9 +8645,27 @@
     },
     "done": false
   },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-05-01 14:35:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8438,9 +8675,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },
@@ -8462,9 +8711,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-05-01 14:19:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-01 15:07:43 +0000"
     },
     "done": true
   },

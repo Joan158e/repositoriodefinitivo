@@ -23,6 +23,7 @@
       "minecraft:sunflower_plains": "2025-04-12 19:33:05 +0000",
       "minecraft:birch_forest": "2025-04-09 22:41:19 +0000",
       "minecraft:bamboo_jungle": "2025-04-18 22:11:59 +0000",
+      "minecraft:badlands": "2025-05-01 15:12:30 +0000",
       "minecraft:savanna_plateau": "2025-04-11 21:28:50 +0000",
       "minecraft:beach": "2025-04-10 21:43:47 +0000",
       "minecraft:stony_peaks": "2025-04-11 22:28:54 +0000",
@@ -35,6 +36,7 @@
       "minecraft:cold_ocean": "2025-04-12 20:18:36 +0000",
       "minecraft:forest": "2025-04-09 21:34:20 +0000",
       "minecraft:lush_caves": "2025-04-11 23:12:13 +0000",
+      "minecraft:desert": "2025-05-01 15:13:20 +0000",
       "minecraft:jungle": "2025-04-10 21:45:15 +0000",
       "minecraft:ocean": "2025-04-10 21:37:17 +0000",
       "minecraft:snowy_beach": "2025-04-20 23:16:07 +0000",
@@ -8448,15 +8450,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-05-01 14:37:49 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-01 14:45:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 15:14:02 +0000"
     },
     "done": true
   },
@@ -8511,6 +8531,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 15:13:59 +0000"
     },
     "done": true
   },
@@ -8598,9 +8630,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 14:52:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:51 +0000"
     },
     "done": true
   },
@@ -8628,6 +8672,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-05-01 14:58:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
     "criteria": {
       "has_magenta_dye": "2025-05-01 14:45:25 +0000"
@@ -8643,6 +8693,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2025-05-01 15:14:00 +0000"
     },
     "done": true
   },
@@ -8700,6 +8756,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-05-01 14:52:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8748,9 +8810,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-01 14:52:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_bath": {
     "criteria": {
       "has_magenta_dye": "2025-05-01 14:45:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 15:14:02 +0000"
     },
     "done": true
   },
@@ -8787,6 +8861,12 @@
   "refurbished_furniture:recipes/decorations/dark_fridge": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
     },
     "done": true
   },
@@ -8844,6 +8924,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-05-01 14:24:32 +0000"
@@ -8853,6 +8939,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-05-01 14:10:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:51 +0000"
     },
     "done": true
   },
@@ -8880,6 +8972,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-01 15:05:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
@@ -8889,6 +8987,12 @@
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
     },
     "done": true
   },
@@ -8934,6 +9038,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 15:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-01 14:52:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
@@ -8964,6 +9080,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-01 14:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-05-01 14:37:49 +0000"
@@ -8979,6 +9107,18 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-01 14:37:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 15:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 14:58:51 +0000"
     },
     "done": true
   },

@@ -595,3 +595,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [01May2025 14:50:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
 [01May2025 14:52:14.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [Sea? Not a Problem]
 [01May2025 14:53:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 14:56:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 14:56:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzzz
+[01May2025 14:56:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 14:56:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> z
+[01May2025 14:57:20.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:01:57.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! -9.242940039771838,2.0,3.4483935673356427
+[01May2025 15:01:57.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8186ms or 163 ticks behind
+[01May2025 15:02:02.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:05:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:07:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[01May2025 15:08:10.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zz
+[01May2025 15:08:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 15:08:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 15:09:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlexaurusRex16> zzz
+[01May2025 15:09:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 15:13:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[01May2025 15:13:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [The Desert Swimmers]
+[01May2025 15:14:00.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexaurusRex16 has made the advancement [What a Handful]
+[01May2025 15:14:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to 129.500000, 76.500000, 28.500000]
+[01May2025 15:14:48.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Eye of The Storm]
+[01May2025 15:16:05.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
