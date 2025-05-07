@@ -7705,6 +7705,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-05-01 23:13:48 +0000",
       "minecraft:sheep": "2025-05-01 16:43:46 +0000",
       "minecraft:cow": "2025-04-14 20:44:26 +0000",
       "minecraft:chicken": "2025-04-14 22:52:49 +0000"
@@ -9538,6 +9539,12 @@
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2025-05-01 22:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-01 23:17:09 +0000"
     },
     "done": true
   },
