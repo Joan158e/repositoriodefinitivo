@@ -3465,6 +3465,7 @@
       "minecraft:skeleton": "2025-04-09 22:33:28 +0000",
       "minecraft:ravager": "2025-04-12 22:07:03 +0000",
       "minecraft:vindicator": "2025-04-12 22:08:18 +0000",
+      "minecraft:magma_cube": "2025-05-07 19:13:07 +0000",
       "minecraft:spider": "2025-04-09 22:50:05 +0000",
       "minecraft:creeper": "2025-04-09 22:10:41 +0000",
       "minecraft:evoker": "2025-04-12 22:10:13 +0000",
@@ -9068,6 +9069,18 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_sandstone_slab": "2025-05-01 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-07 19:13:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-07 19:13:30 +0000"
     },
     "done": true
   },
