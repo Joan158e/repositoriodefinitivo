@@ -4938,3 +4938,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07May2025 20:46:36.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07May2025 20:51:36.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07May2025 20:51:36.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:55:17.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! -7.61008854729225,0.48249998688697815,6.76808123502668
+[07May2025 20:55:25.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan moved too quickly! 5.693539585238511,0.0,8.438727385799265
+[07May2025 20:56:36.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:56:36.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 21:01:26.805] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07May2025 21:01:26.805] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07May2025 21:01:36.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 21:01:36.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
