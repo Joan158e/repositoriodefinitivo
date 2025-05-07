@@ -4934,3 +4934,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07May2025 20:41:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Next Generation]
 [07May2025 20:41:36.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07May2025 20:41:36.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:46:36.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:46:36.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 20:51:36.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 20:51:36.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
