@@ -402,3 +402,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07May2025 19:19:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
 [07May2025 19:27:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 101.500000, 32.500000]
 [07May2025 19:48:16.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1789, y=65, z=4144} BlockPos{x=-1790, y=64, z=4146}
+[07May2025 20:32:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1544.500000, 79.500000, 1310.500000]
+[07May2025 20:32:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 101.500000, 32.500000]
+[07May2025 20:40:17.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement ['Til Death Do Us Part]
+[07May2025 20:41:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Next Generation]

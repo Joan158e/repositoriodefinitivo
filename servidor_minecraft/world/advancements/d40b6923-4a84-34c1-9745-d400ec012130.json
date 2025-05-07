@@ -9139,6 +9139,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-05-07 20:32:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-05-07 19:47:02 +0000"
@@ -9211,6 +9217,12 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-05-07 20:41:23 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_warped_crib": {
     "criteria": {
       "has_warped_planks": "2025-05-07 19:26:20 +0000"
@@ -9220,6 +9232,12 @@
   "mca:recipes/decorations/green_warped_crib": {
     "criteria": {
       "has_warped_planks": "2025-05-07 19:26:20 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-05-07 20:40:17 +0000"
     },
     "done": true
   },
