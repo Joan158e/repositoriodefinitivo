@@ -431,3 +431,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16May2025 19:35:51.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 157.500000, 138.500000, -4.500000]
 [16May2025 19:36:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 131.500000, 110.500000, -1.500000]
 [16May2025 19:38:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 150.500000, 78.500000, -37.500000]
+[16May2025 19:41:50.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 109.500000, 14.500000]
+[16May2025 19:47:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 125.500000, 111.500000, 9.500000]
+[16May2025 19:47:35.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 122.500000, 125.500000, 19.500000]
