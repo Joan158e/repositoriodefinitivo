@@ -484,3 +484,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16May2025 20:50:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 101.500000, 32.500000]
 [16May2025 20:50:44.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
 [16May2025 20:50:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[16May2025 20:51:06.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:48413] logged in with entity id 43763 at (131.93729095056298, 99.5, 31.93789282258833)
+[16May2025 20:51:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[16May2025 20:51:06.868] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[16May2025 20:52:34.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1306.500000, 81.500000, -1912.500000]
+[16May2025 20:52:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was frozen by a dragon
+[16May2025 20:53:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1303.500000, 75.500000, -1915.500000]
+[16May2025 20:54:08.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilona'/44689, l='ServerLevel[world]', x=-1324.58, y=80.77, z=-1815.61] died, message: 'Ilona was slain by Ice Dragon'
+[16May2025 20:54:08.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilona'/44689, l='ServerLevel[world]', x=-1324.58, y=80.77, z=-1815.61] died: Ilona was slain by Ice Dragon
