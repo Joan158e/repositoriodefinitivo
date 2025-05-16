@@ -425,3 +425,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16May2025 17:11:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 101.500000, 32.500000]
 [16May2025 17:13:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1573.500000, 79.500000, 4098.500000]
 [16May2025 17:14:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 13.500000, 71.500000, -31.500000]
+[16May2025 17:27:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Rotten to the Core]
