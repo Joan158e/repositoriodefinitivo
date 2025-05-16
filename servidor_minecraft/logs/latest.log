@@ -492,3 +492,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [16May2025 20:53:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1303.500000, 75.500000, -1915.500000]
 [16May2025 20:54:08.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilona'/44689, l='ServerLevel[world]', x=-1324.58, y=80.77, z=-1815.61] died, message: 'Ilona was slain by Ice Dragon'
 [16May2025 20:54:08.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilona'/44689, l='ServerLevel[world]', x=-1324.58, y=80.77, z=-1815.61] died: Ilona was slain by Ice Dragon
+[16May2025 21:09:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[16May2025 21:10:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
