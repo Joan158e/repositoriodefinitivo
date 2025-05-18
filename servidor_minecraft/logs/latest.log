@@ -417,3 +417,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:09:30.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18May2025 14:09:30.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18May2025 14:09:30.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[18May2025 14:18:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [My Name is Nobody]
