@@ -441,3 +441,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:50:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
 [18May2025 15:04:11.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1783.500000, 64.500000, -2783.500000]
 [18May2025 15:12:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
+[18May2025 15:15:00.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1752.500000, 78.500000, -3911.500000]
+[18May2025 15:16:01.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Sea Serpent
+[18May2025 15:16:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1752.500000, 63.500000, -3877.500000]
+[18May2025 15:16:15.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 15:17:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Gorgon
+[18May2025 15:18:10.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1749.500000, 61.500000, -3913.500000]
+[18May2025 15:21:14.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1447.500000, 79.500000, -3943.500000]
+[18May2025 15:24:03.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
