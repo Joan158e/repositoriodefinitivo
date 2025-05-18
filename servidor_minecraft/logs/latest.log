@@ -424,3 +424,15 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:25:16.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1776.500000, -5.500000, -2555.500000]
 [18May2025 14:29:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
 [18May2025 14:31:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[18May2025 14:36:26.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan was slain by Ice Dragon
+[18May2025 14:36:26.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_18.05.2025-14.36.26.dat
+[18May2025 14:36:26.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1656 Y: 26.0 Z: -2380
+[18May2025 14:36:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1656.500000, 26.500000, -2379.500000]
+[18May2025 14:39:38.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 134.500000, 101.500000, 32.500000]
+[18May2025 14:39:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan fell from a high place
+[18May2025 14:39:55.219] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_18.05.2025-14.39.55.dat
+[18May2025 14:39:55.219] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 126 Y: 76.0 Z: 24
+[18May2025 14:40:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 127.500000, 76.500000, 25.500000]
+[18May2025 14:41:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [They Grow Up So Fast]
+[18May2025 14:43:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1621.500000, 36.500000, -2366.500000]
+[18May2025 14:43:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Mother of Dragons]
