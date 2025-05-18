@@ -439,3 +439,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:45:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
 [18May2025 14:50:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
 [18May2025 14:50:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[18May2025 15:04:11.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1783.500000, 64.500000, -2783.500000]
