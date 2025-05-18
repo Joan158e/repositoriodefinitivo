@@ -436,3 +436,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:41:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [They Grow Up So Fast]
 [18May2025 14:43:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1621.500000, 36.500000, -2366.500000]
 [18May2025 14:43:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [Mother of Dragons]
+[18May2025 14:45:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[18May2025 14:50:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
+[18May2025 14:50:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
