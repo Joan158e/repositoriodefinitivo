@@ -418,3 +418,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18May2025 14:09:30.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18May2025 14:09:30.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [18May2025 14:18:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has made the advancement [My Name is Nobody]
+[18May2025 14:25:07.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan drowned
+[18May2025 14:25:07.442] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Johan with unique ID travelersbackpack.sandstone_18.05.2025-14.25.07.dat
+[18May2025 14:25:07.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1777 Y: -5.915609084215416 Z: -2557
+[18May2025 14:25:16.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -1776.500000, -5.500000, -2555.500000]
+[18May2025 14:29:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[18May2025 14:31:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
