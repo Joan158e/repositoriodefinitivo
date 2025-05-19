@@ -417,3 +417,9 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [19May2025 20:27:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
 [19May2025 20:27:08.190] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
 [19May2025 20:32:31.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 1098.500000, 76.500000, -438.500000]
+[19May2025 20:35:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -142.500000, 67.500000, -107.500000]
+[19May2025 20:35:55.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -170.500000, 90.500000, -109.500000]
+[19May2025 20:36:11.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -189.500000, 159.500000, -107.500000]
+[19May2025 20:36:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -265.500000, 185.500000, -28.500000]
+[19May2025 20:40:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
+[19May2025 20:43:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
