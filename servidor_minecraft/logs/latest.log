@@ -423,3 +423,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [19May2025 20:36:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -265.500000, 185.500000, -28.500000]
 [19May2025 20:40:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
 [19May2025 20:43:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
+[19May2025 21:01:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan has completed the challenge [Back In My day...]
+[19May2025 21:02:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
