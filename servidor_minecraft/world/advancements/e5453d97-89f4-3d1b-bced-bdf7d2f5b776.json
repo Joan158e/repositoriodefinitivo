@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-23 22:32:50 +0000",
       "minecraft:frozen_river": "2025-04-20 23:18:46 +0000",
       "minecraft:sunflower_plains": "2025-04-12 19:33:05 +0000",
       "minecraft:birch_forest": "2025-04-09 22:41:19 +0000",
@@ -9605,6 +9606,36 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-05-01 23:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-23 22:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-23 22:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-23 22:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-23 22:33:36 +0000"
+    },
+    "done": true
+  },
+  "mca:grandparent": {
+    "criteria": {
+      "iron": "2025-05-23 22:55:50 +0000"
     },
     "done": true
   },
