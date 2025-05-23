@@ -420,3 +420,25 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23May2025 22:04:01.471] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [23May2025 22:04:01.471] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [23May2025 22:04:01.472] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[23May2025 22:04:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[23May2025 22:06:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
+[23May2025 22:06:43.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[23May2025 22:08:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Spectator Mode]
+[23May2025 22:08:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
+[23May2025 22:09:11.413] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[23May2025 22:09:11.413] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[23May2025 22:09:11.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[23May2025 22:09:37.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to AlexaurusRex16]
+[23May2025 22:10:49.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
+[23May2025 22:10:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[23May2025 22:10:58.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johan[/127.31.71.166:56843] logged in with entity id 2699 at (144.89608346033447, 78.25829351621971, 5.3216489159937135)
+[23May2025 22:10:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan joined the game
+[23May2025 22:10:58.724] [Server thread/INFO] [Jade/]: Syncing config to Johan (d40b6923-4a84-34c1-9745-d400ec012130)
+[23May2025 22:11:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Spectator Mode]
+[23May2025 22:11:33.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
+[23May2025 22:11:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[23May2025 22:12:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to 133.500000, 97.500000, -3.500000]
+[23May2025 22:12:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Teleported AlexaurusRex16 to Johan]
+[23May2025 22:12:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Set own game mode to Survival Mode]
+[23May2025 22:13:24.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AlexaurusRex16: Set own game mode to Survival Mode]
+[23May2025 22:14:06.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johan> duerme antes que la maten coño
