@@ -5069,3 +5069,7 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24May2025 13:08:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Johan: Teleported Johan to -268.500000, 208.500000, 33.500000]
 [24May2025 13:08:55.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johan lost connection: Disconnected
 [24May2025 13:08:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johan left the game
+[24May2025 13:13:11.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 13:13:11.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 13:18:11.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 13:18:11.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
